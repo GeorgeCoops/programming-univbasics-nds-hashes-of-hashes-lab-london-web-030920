@@ -52,7 +52,7 @@ def naming_system
 
   biological_life = {
     Kingdom = {
-      Phylum: 
+      Phylum:
       class: 
     }
   }
