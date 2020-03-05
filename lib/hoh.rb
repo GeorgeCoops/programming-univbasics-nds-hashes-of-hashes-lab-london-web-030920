@@ -46,4 +46,5 @@ def naming_system
       class:
     }
   }
+  Kingdom
 end
