@@ -44,9 +44,9 @@ def naming_system
     Kingdom = {
       Phylum:
       Class:
-      Order: 
+      Order:
       Family:
-      Genus: 
+      Genus:
       Species: 
     }
   }
