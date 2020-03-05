@@ -49,5 +49,5 @@ def naming_system
          }
        }
   }
-  biological_life
+  kingdom
 end
