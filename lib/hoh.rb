@@ -43,7 +43,11 @@ def naming_system
   # HoH all the way to Species!
     Kingdom = {
       Phylum:
-      class:
+      Class:
+      Order: 
+      Family:
+      Genus: 
+      Species: 
     }
   }
   Kingdom
